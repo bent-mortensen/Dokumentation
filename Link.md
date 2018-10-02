@@ -67,8 +67,8 @@ The second paragraph text
 
 HTML syntax 
 ```
-<a href="https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md">Blue link text</a>
+<a href="https://github.com/bent-mortensen/Dokumentation/blob/master/Link.md">Blue link text</a>
 ```
 example
-<a href="https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md">Blue link text</a>
+<a href="https://github.com/bent-mortensen/Dokumentation/blob/master/Link.md">Blue link text</a>
 ---

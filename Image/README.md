@@ -5,7 +5,7 @@
 ## Table of contents 
 1. [Full image link](#example1)
 2. [Short image link](#example2)
-3. [HTML image link](#HTML image link)
+3. [HTML image link](#example3)
 
 <a name="example1"></a>
 ## Full image link

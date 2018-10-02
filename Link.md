@@ -1,17 +1,30 @@
 # Link
 
 # Image markdown
-## Table of content 
+## Table of content
 1. [Full image link](#example1)
 2. [Short image link](#example2)
 3. [HTML image link](#example3)
 
 ## Table of content
-1. [Clickable page references](#CPR)
-2. tes 
-3. tes 
+1. [Link](#link)
+2. [Clickable page references](#cpr)
+3. [HTML link](#html) 
+---
 
-<a name="CPR"></a> 
+
+<a name="link"></a> 
+## Link
+
+Markdown syntax 
+```
+[Blue link text](https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md)
+```
+example
+[Blue link text](https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md)
+---
+
+<a name="cpr"></a> 
 ## Clickable page references
 
 Markdown syntax 
@@ -34,3 +47,19 @@ This is a sub paragraph, formatted in heading 3 style
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 ```
+### Example
+
+here
+
+---
+
+<a name="html"></a> 
+## HTML link
+
+HTML syntax 
+```
+<a href="https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md">Blue link text</a>
+```
+example
+<a href="https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md">Blue link text</a>
+---

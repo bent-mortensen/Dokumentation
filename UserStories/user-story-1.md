@@ -11,8 +11,24 @@ As a user,
 I want to update the frequency of measurement,  
 so that I get more telemetry.  
 
+### solution
+I would make the program able to receive commands and then update the property, which controls the frequency.
+
 ## User story 2
 
 As a user,  
 I want to update a program, OTA, on windows 10 iot core,
 so that I do not have to do it on local lan. 
+
+### solution
+  
+This is a jungle  
+  
+Windows store is currently not supported at the moment on windows iot [Link](https://docs.microsoft.com/en-us/windows-hardware/service/iot/servicing-msstore)  
+
+Usefull links  
+  
+[how to pus...](http://blog.infernored.com/how-to-push-updates-to-raspberry-pi-uwp-apps-in-prod)  
+[sideload](https://matthijs.hoekstraonline.net/2016/09/27/auto-updater-for-my-side-loaded-uwp-apps/)  
+
+

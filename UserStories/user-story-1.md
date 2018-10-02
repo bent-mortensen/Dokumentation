@@ -28,7 +28,7 @@ Windows store is currently not supported at the moment on windows iot [Link](htt
 
 Usefull links  
   
-[how to pus...](http://blog.infernored.com/how-to-push-updates-to-raspberry-pi-uwp-apps-in-prod)  
+[how to push...](http://blog.infernored.com/how-to-push-updates-to-raspberry-pi-uwp-apps-in-prod)  
 [sideload](https://matthijs.hoekstraonline.net/2016/09/27/auto-updater-for-my-side-loaded-uwp-apps/)  
 
 

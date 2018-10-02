@@ -16,7 +16,7 @@ Markdown syntax
 ```
 ![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png)  
 [To the Top](#top)
-
+---
 <a name="example2"></a>
 ## Short image link
 
@@ -26,7 +26,7 @@ Markdown syntax
 ```
 ![Alt Text](/Image/User-Story-Card.png)  
 [To the Top](#top)
-
+---
 <a name="example3"></a>
 ## HTML image link
 
@@ -36,3 +36,4 @@ Markdown syntax
 ```
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200"></img>  
 [To the Top](#top)
+---

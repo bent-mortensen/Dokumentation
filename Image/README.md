@@ -25,5 +25,6 @@ Markdown syntax  code example 1
 ```
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200" />
 ```
-<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200" />  
+<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200"></img>  
+
 [Home](#home)

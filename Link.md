@@ -16,7 +16,7 @@ Markdown syntax
 ```
 [Blue link text](https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md)
 ```
-Example
+Example  
 [Blue link text](https://github.com/bent-mortensen/Dokumentation/edit/master/Link.md)
 
 [To the Top](#top)

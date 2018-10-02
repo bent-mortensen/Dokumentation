@@ -17,8 +17,8 @@ I would make the program able to receive commands and then update the property, 
 ## User story 2
 
 As a user,  
-I want to update a program, OTA, on windows 10 iot core,
-so that I do not have to do it on local lan. 
+I want to update a program, OTA, on windows 10 iot core,  
+so that I do not have to do it on local lan.  
 
 ### solution
   

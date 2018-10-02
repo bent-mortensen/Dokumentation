@@ -32,7 +32,7 @@ Markdown syntax
 
 Markdown syntax
 ```
-<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200" />
+<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200"></img>
 ```
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200"></img>  
 [To the Top](#top)

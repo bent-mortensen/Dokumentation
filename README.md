@@ -1,5 +1,5 @@
-# Dokumentation
-En samling af dokumentations metoder
+# Markdown Syntax til dokumentation
+En samling af markdown syntax til dokumentation, med kode eksempler, lavet i markdown.
 
 ## Table of content
 

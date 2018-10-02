@@ -74,7 +74,7 @@ HTML syntax
 ```
 <a href="https://github.com/bent-mortensen/Dokumentation/blob/master/Link.md">Blue link text</a>
 ```
-example
+example  
 <a href="https://github.com/bent-mortensen/Dokumentation/blob/master/Link.md">Blue link text</a>
 
 [To the Top](#top)

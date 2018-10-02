@@ -22,11 +22,13 @@ so that I do not have to do it on local lan.
 
 ### solution
   
-This is a jungle  
+This is a jungle, but when searching the web for answers this seems like the best way to go [MS MDM CM](https://docs.microsoft.com/en-us/windows/client-management/mdm/enterprisemodernappmanagement-csp)  
   
 Windows store is currently not supported at the moment on windows iot [Link](https://docs.microsoft.com/en-us/windows-hardware/service/iot/servicing-msstore)  
 
-Usefull links  
+
+
+The following links descripes a way to update apps on Windows iot core 
   
 [how to push...](http://blog.infernored.com/how-to-push-updates-to-raspberry-pi-uwp-apps-in-prod)  
 [sideload](https://matthijs.hoekstraonline.net/2016/09/27/auto-updater-for-my-side-loaded-uwp-apps/)  

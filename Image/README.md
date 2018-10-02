@@ -7,23 +7,30 @@
 2. [Short image link](#example2)
 3. [HTML image link](#example3)
 
+<a name="example1"></a>
+## Full image link
 
-## Markdown syntax  code example 1 <a name="example1"></a>
-Markdown syntax  code example 1
+Markdown syntax
 ```
 ![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png)
 ```
 ![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png)  
 [To the Top](#top)
 
-## Markdown syntax  code example 2 <a name="example2"></a>
+<a name="example2"></a>
+## Short image link
+
+Markdown syntax
 ```
 ![Alt Text](/Image/User-Story-Card.png)
 ```
 ![Alt Text](/Image/User-Story-Card.png)  
 [To the Top](#top)
 
-## Markdown syntax  code example 3 <a name="example3"></a>
+<a name="example3"></a>
+## HTML image link
+
+Markdown syntax
 ```
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="200" />
 ```

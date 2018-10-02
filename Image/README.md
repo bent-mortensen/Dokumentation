@@ -2,7 +2,7 @@
 
 
 # Image markdown
-## Table of contents 
+## Table of content 
 1. [Full image link](#example1)
 2. [Short image link](#example2)
 3. [HTML image link](#example3)

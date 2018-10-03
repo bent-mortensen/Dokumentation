@@ -60,6 +60,8 @@ Alt-H2
 
 Line Breaks can be achieved in a number of different ways.
 
+HTML ``` <br> and </br> ``` works too, but is not recommended.
+
 Markdown syntax
 ```
 Each

@@ -6,7 +6,7 @@ This guide/tutorial/cheatsheet is created in markdown.
 ## Table of content
 
 1. [Images](/Image/README.md#top)
-2. [Links](/Link.md)
+2. [Links](/Link.md#link-markdown)
 3. [Text](/Text.md)
 
 ## for work

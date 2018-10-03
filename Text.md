@@ -5,11 +5,7 @@
 1. [Headers](#header)
 2. [Lists](#list)
 
-
-<div dette virker ikke>
-The &lt;div&gt; element is a block-level element.</div>
-
-
+$$text$$
 
 ```
 # H1

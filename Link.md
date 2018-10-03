@@ -32,16 +32,20 @@ Markdown syntax
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+<a name="introduction"></a>
+## This is the introduction 
 Some introduction text
 
-## Some paragraph <a name="paragraph1"></a>
+<a name="paragraph1"></a>
+## Some paragraph 
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+<a name="subparagraph1"></a>
+### Sub paragraph 
+This is a sub paragraph
 
-## Another paragraph <a name="paragraph2"></a>
+<a name="paragraph2"></a>
+## Another paragraph 
 The second paragraph text
 ```
 ###### Example
@@ -51,16 +55,20 @@ The second paragraph text
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
+<a name="introduction"></a>
+## This is the introduction 
 Some introduction text
 
-## Some paragraph <a name="paragraph1"></a>
+<a name="paragraph1"></a>
+## Some paragraph 
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+<a name="subparagraph1"></a>
+### Sub paragraph 
+This is a sub paragraph
 
-## Another paragraph <a name="paragraph2"></a>
+<a name="paragraph2"></a>
+## Another paragraph 
 The second paragraph text
 
 [To the Top](#top)

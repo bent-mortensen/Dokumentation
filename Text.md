@@ -52,16 +52,3 @@ Alt-H2
 
 [To the Top](#top)
 ------------------
-
-<a name="something"></a>
-## headline
-
-Markdown syntax
-```
-codeexample
-```
-Example
-
-
-[To the Top](#top)
-------------------

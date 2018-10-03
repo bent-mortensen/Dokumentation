@@ -1,6 +1,7 @@
 <a name="top"></a>
 
 # Link markdown
+[Back](https://github.com/bent-mortensen/Dokumentation#markdown-syntax-til-dokumentation)
 
 ## Table of content
 1. [Link](#link)

@@ -46,7 +46,7 @@ Markdown syntax
 Example  
 ![alt text][logo]
 
-[logo]: /Image/User-Story-Card.png "MouseOver Hover Title Text"
+[logo]: https://avatars2.githubusercontent.com/u/32063274?s=96&v=4 "MouseOver Hover Title Text"
 
 
 [To the Top](#top)

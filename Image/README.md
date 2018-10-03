@@ -19,7 +19,7 @@ Example
 [To the Top](#top)
 ------------------
 
-<a name="shortimagelink"></a>
+<a name="shortimagelink1"></a>
 ## Short image link 1
 
 Markdown syntax
@@ -41,10 +41,13 @@ Markdown syntax
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MouseOver Hover Title Text"
 ```
-Example
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MouseOver Hover Title Text"
+Example  
+
 
 ![alt text][logo]
+
+[logo]: /Image/User-Story-Card.png "MouseOver Hover Title Text"
+
 
 [To the Top](#top)
 ------------------

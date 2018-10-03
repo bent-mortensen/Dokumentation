@@ -1,5 +1,7 @@
 <a name="top"></a>
-# Text-Formatting
+# Text
+
+Here is shown a few different ways to format text.
 
 ## Table of content
 
@@ -35,15 +37,15 @@ Example
 
 Markdown syntax
 ```
-Alt-H1               
-======               
+Alt-H1
+======
 
 Alt-H2
 ------
 ```
 Example
-Alt-H1               
-======               
+Alt-H1
+======
 
 Alt-H2
 ------

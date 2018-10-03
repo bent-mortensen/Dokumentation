@@ -1,5 +1,7 @@
 # Markdown Syntax til dokumentation
-En samling af markdown syntax til dokumentation, med kode eksempler, lavet i markdown.
+A Collection of Markdown syntax and examples for writing documentation here on github.
+
+This guide/tutorial/cheatsheet is created in markdown.
 
 ## Table of content
 

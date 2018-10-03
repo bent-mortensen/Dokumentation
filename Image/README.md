@@ -11,10 +11,10 @@
 
 Markdown syntax
 ```
-![Alt Text](https://avatars2.githubusercontent.com/u/32063274?s=96&v=4 "MouseOver Hover Title Text")
+![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text")
 ```
 Example  
-![Alt Text](https://avatars2.githubusercontent.com/u/32063274?s=96&v=4 "MouseOver Hover Title Text")
+![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text")
 
 [To the Top](#top)
 ------------------
@@ -42,12 +42,12 @@ Markdown syntax
 ```
 ![alt text][logo]
 
-[logo]: https://avatars2.githubusercontent.com/u/32063274?s=96&v=4 "MouseOver Hover Title Text"
+[logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
 ```
 Example  
 ![alt text][logo]
 
-[logo]: https://avatars2.githubusercontent.com/u/32063274?s=96&v=4 "MouseOver Hover Title Text"
+[logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
 
 
 [To the Top](#top)
@@ -58,10 +58,10 @@ Example
 
 Markdown syntax
 ```
-<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="100"></img>
+<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 ```
 Example  
-<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="100"></img>
+<img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 
 [To the Top](#top)
 ------------------

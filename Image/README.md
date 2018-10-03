@@ -3,7 +3,7 @@
 ## Table of content 
 1. [Full image link](#fullimagelink)
 2. [Short image link 1](#shortimagelink1)
-3. [Short image link 2](#shortimagelink2) <-- This can create a reference to an image, to again and again. 
+3. [Short image link 2](#shortimagelink2) <-- This can create a reference to an image, to use again and again. 
 4. [HTML image link](#htmlimagelink) <-- This can control the size of the image, width and height.
 
 <a name="fullimagelink"></a>

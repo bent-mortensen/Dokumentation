@@ -26,7 +26,7 @@ Markdown syntax
 ```
 ![Alt Text](/Image/User-Story-Card.png)
 ```
-Example
+Example  
 ![Alt Text](/Image/User-Story-Card.png)  
 [To the Top](#top)
 ---
@@ -58,10 +58,10 @@ Example
 
 Markdown syntax
 ```
-<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="200"></img>
+<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="100"></img>
 ```
-Example
-<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="200"></img>
+Example  
+<img src="https://avatars2.githubusercontent.com/u/32063274?s=96&v=4" width="300" height="100"></img>
 
 [To the Top](#top)
 ------------------

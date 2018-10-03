@@ -73,9 +73,10 @@ Enterkey
 press.
 
 Press the Enterkey 2 times, to create a new paragraph section.  
-Press the Spacekey 2 times, to create a newline in the same paragraph section. 
-See I did it again.   
-And again.
+Press the Spacekey 2 times, to create a newline in the same paragraph section.  
+Two  spaces  in  between  text  does  nothing.  
+It needs to be at the very end.
+
 ```
 ###### Example
 Each
@@ -89,10 +90,9 @@ Enterkey
 press.
 
 Press the Enterkey 2 times, to create a new paragraph section.  
-Press the Spacekey 2 times, to create a newline in the same paragraph section. 
-See I did it again.   
-And again.
-
+Press the Spacekey 2 times, to create a newline in the same paragraph section.  
+Two  spaces  in  between  text  does  nothing.  
+It needs to be at the very end.
 
 [To the Top](#top)
 ------------------

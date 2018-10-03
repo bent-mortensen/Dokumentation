@@ -14,6 +14,7 @@ Markdown syntax
 ![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text")
 ```
 Example  
+
 ![Alt Text](https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text")
 
 [To the Top](#top)
@@ -27,6 +28,7 @@ Markdown syntax
 ![Alt Text](/Image/User-Story-Card.png)
 ```
 Example  
+
 ![Alt Text](/Image/User-Story-Card.png)  
 [To the Top](#top)
 ---
@@ -45,6 +47,7 @@ Markdown syntax
 [logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
 ```
 Example  
+
 ![alt text][logo]
 
 [logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
@@ -61,6 +64,7 @@ Markdown syntax
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 ```
 Example  
+
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 
 [To the Top](#top)

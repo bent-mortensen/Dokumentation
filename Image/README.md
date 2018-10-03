@@ -33,7 +33,9 @@ Markdown syntax
 <a name="shortimagelink2"></a>
 ## Short image link 2
 
-Reference
+This will create an Reference, than can be placed without have the image link attached every time.
+
+Place the reference in the bottom of the markdown document to use it every where.
 
 Markdown syntax
 ```
@@ -42,8 +44,6 @@ Markdown syntax
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MouseOver Hover Title Text"
 ```
 Example  
-
-
 ![alt text][logo]
 
 [logo]: /Image/User-Story-Card.png "MouseOver Hover Title Text"

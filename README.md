@@ -29,4 +29,8 @@ print("hello world!")
 > quete
 >> more
 
+
+**This text is _extremely_ important**
+_This text is_ **extremely** _important_
+
 </details>

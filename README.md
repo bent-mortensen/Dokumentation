@@ -34,8 +34,8 @@ syntax
 example  
 **This text is _extremely_ important**  
 syntax  
-```_This text is_ **extremely** _important_```  
+```_This text is **extremely** important_```  
 example  
-_This text is_ **extremely** _important_  
+_This text is **extremely** important_  
 
 </details>

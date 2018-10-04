@@ -28,13 +28,14 @@ print("hello world!")
 ```
 > quete
 >> more
-syntax
-```**This text is _extremely_ important**```
-example
-**This text is _extremely_ important**
-syntax
-```_This text is_ **extremely** _important_```
-example
-_This text is_ **extremely** _important_
+
+syntax  
+```**This text is _extremely_ important**```  
+example  
+**This text is _extremely_ important**  
+syntax  
+```_This text is_ **extremely** _important_```  
+example  
+_This text is_ **extremely** _important_  
 
 </details>

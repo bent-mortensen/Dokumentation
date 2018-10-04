@@ -23,8 +23,17 @@ This guide/tutorial/cheatsheet is created in markdown.
   
 #### yes, even hidden code blocks!
 
-```C#
-print("hello world!")
+```csharp
+public void Method(string argh[])
+{
+  ComeOn();
+  bool temp = true;
+  string text = "";
+  if(temp){
+    return text = "Hello";
+  }
+  
+}
 ```
 > quete
 >> more

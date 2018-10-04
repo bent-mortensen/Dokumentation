@@ -1,4 +1,4 @@
-# Markdown Syntax til dokumentation
+# Markdown Syntax for github documentation
 A Collection of Markdown syntax and examples for writing documentation here on github.
 
 This guide/tutorial/cheatsheet is created in markdown.
@@ -7,7 +7,8 @@ This guide/tutorial/cheatsheet is created in markdown.
 
 1. [Images](/Image/README.md#top)
 2. [Links](/Link.md#top)
-3. [Text](/Text.md#top)
+3. [Texts](/Text.md#top)
+4. [Lists](/List.md#top)
 
 ## for work
 1. [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)

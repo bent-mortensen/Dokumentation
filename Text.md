@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Text
+# Texts
 [Back](https://github.com/bent-mortensen/Dokumentation#markdown-syntax-til-dokumentation "Back to main page.")  
 
 Here is shown a few different ways to format text.

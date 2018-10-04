@@ -5,14 +5,14 @@ This guide/tutorial/cheatsheet is created in markdown.
 
 ## Table of content
 
-1. [Images](/Image/README.md#top)
-2. [Links](/Link.md#top)
-3. [Texts](/Text.md#top)
-4. [Lists](/List.md#top)
+* [Images](/Image/README.md#top)
+* [Links](/Link.md#top)
+* [Texts](/Text.md#top)
+* [Bullet Lists](/BulletList.md#top)
 
 ## for work
-1. [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
-2. user...
+* [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
+* user...
 
 
 

@@ -18,14 +18,15 @@ This guide/tutorial/cheatsheet is created in markdown.
 
 ## collapsible markdown?
 
-<details><summary>CLICK ME</summary>
-<p>
-
+<details>
+<summary>SHOW/HIDE</summary>
+  
 #### yes, even hidden code blocks!
 
-```python
+```C#
 print("hello world!")
 ```
+> quete
+>> more
 
-</p>
 </details>

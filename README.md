@@ -50,5 +50,7 @@ _This text is **extremely** important_
 
 </details>
 
+## Abbreviation
 
-[abbr]("abbreviation")
+[Abbr](# "Abbreviation")  
+[HTML](# "Hypertext Markup Language")  

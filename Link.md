@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# Link markdown
+# Links
 [Back](https://github.com/bent-mortensen/Dokumentation#markdown-syntax-til-dokumentation "Back to main page.")
 
 ## Table of content

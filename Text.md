@@ -9,7 +9,7 @@ Here is shown a few different ways to format text.
 1. [Headers](#header)
 2. [Headers-underlined](#underlined)
 3. [Line Break](#linebreak)
-4. [Lists](#list)
+
 
 <a name="header"></a>
 ## Headers

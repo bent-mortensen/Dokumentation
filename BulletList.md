@@ -39,5 +39,5 @@ This code segment will create a indented list.
       * indent tree 
         * indent four does not work
           * indent
-            *indent six
+            * indent six
     

@@ -9,6 +9,7 @@ This guide/tutorial/cheatsheet is created in markdown.
 * [Links](/Link.md#top)
 * [Texts](/Text.md#top)
 * [Bullet Lists](/BulletList.md#top)
+* [Bullet Lists](/NumberList.md#top)
 
 ## for work
 * [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)

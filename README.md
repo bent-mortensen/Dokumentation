@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Markdown Syntax for github documentation
 A Collection of Markdown syntax and examples for writing documentation here on github.
 

@@ -27,23 +27,13 @@ This code segment will create two lists, with a noticeably space between them.
 Markdown syntax  
 This code segment will create a indented list.
 ``` 
-* list
+* indent zero
   * indent one
     * indent two
       * indent tree 
 ```
 ###### Example
-* list
+* indent zero
   * indent one
     * indent two
-      * indent tree 
-        * indent four
-          * indent five
-            * indent six
-    
-      * indent one
-      * indent two
-      * indent tree 
-  * indent four
-      * indent five
-        * indent six
+      * indent tree

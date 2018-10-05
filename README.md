@@ -17,9 +17,21 @@ This guide/tutorial/cheatsheet is created in markdown.
 * user...
 
 ## collapsible markdown?
-<details><summary>Text box</summary>
+<details><summary>
   
-## Using tables to create boxed text
+## Text box</summary>
+Using tables to create boxed text
+Markdown syntax
+```
+| Boxed text |
+|:-:|
+
+||
+|:-:|
+| Boxed text |
+||
+```
+###### Example
 | Boxed text |
 |:-:|
 
@@ -30,37 +42,56 @@ This guide/tutorial/cheatsheet is created in markdown.
 
 </details>
 
-<details><summary>Quotes</summary>
+<details><summary>
   
+## Quotes</summary>
+Markdown syntax
+```
 > quote
 >> more quote
-
+```
+###### Example
+> quote
+>> more quote
 </details>
 
-<details><summary>Typography</summary>
+<details><summary>
   
-syntax  
+## Typography</summary>
+Markdown syntax  
 ```**This text is _extremely_ important**```  
-example  
+###### Example  
 **This text is _extremely_ important**  
-syntax  
+Markdown syntax  
 ```_This text is **extremely** important_```  
-example  
+###### Example  
 _This text is **extremely** important_  
-
+Markdown syntax  
+```
+~~Strike this text~~
+```
+###### Example
+~~Strike this text~~
 
 </details>
 
-<details><summary>Abbreviation</summary>
+<details><summary>
   
-## Abbreviation
+## Abbreviation</summary>
+Markdown syntax  
+```
+[Abbr](\# "Abbreviation")  
+[HTML](\# "Hypertext Markup Language")  
+```
+###### Example
 [Abbr](\# "Abbreviation")  
 [HTML](\# "Hypertext Markup Language")  
 
 </details>
 
-<details><summary>Code blocks with syntax identifyer</summary>
-
+<details><summary>
+  
+## Code blocks with syntax identifyer</summary>
 ```csharp
 public void Method(string argh[])
 {

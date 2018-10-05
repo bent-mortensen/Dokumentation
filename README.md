@@ -15,7 +15,7 @@ This guide/tutorial/cheatsheet is created in markdown.
 ## for work
 * [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
 * user...
-
+-------------------------------
 ## collapsible Section !test!
 <details><summary>
   
@@ -38,7 +38,7 @@ Text inside goes here
 </details>
 
 
-
+---
 <details><summary>
   
 ## Text box</summary>
@@ -64,6 +64,7 @@ Markdown syntax
 
 </details>
 
+---
 <details><summary>
   
 ## Quotes</summary>
@@ -77,6 +78,7 @@ Markdown syntax
 >> more quote
 </details>
 
+---
 <details><summary>
   
 ## Typography</summary>
@@ -97,6 +99,7 @@ Markdown syntax
 
 </details>
 
+---
 <details><summary>
   
 ## Abbreviation</summary>
@@ -111,6 +114,7 @@ Markdown syntax
 
 </details>
 
+---
 <details><summary>
   
 ## Code blocks with syntax identifyer</summary>

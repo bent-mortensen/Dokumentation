@@ -16,13 +16,18 @@ This guide/tutorial/cheatsheet is created in markdown.
 * [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
 * user...
 
-
+[INSIDE](\#inside "Inside")  
 
 ## collapsible markdown?
-
-<details>
-<summary>SHOW/HIDE</summary>
+<details><summary>SHOW/HIDE</summary>
   
+  text
+    text
+
+</details>
+
+<details><summary>SHOW/HIDE</summary>
+<a name="inside"></a>  
 #### yes, even hidden code blocks!
 
 ```csharp

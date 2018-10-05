@@ -1,6 +1,6 @@
 <a name="top"></a>
 # Bullet lists
-[Back](https://github.com/bent-mortensen/Dokumentation#markdown-syntax-til-dokumentation "Back to main page.")  
+[Back](https://github.com/bent-mortensen/Dokumentation#top "Back to main page.")  
 
 Bulletlists can be created with asterisk, plus and minus
 

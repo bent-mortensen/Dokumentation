@@ -19,7 +19,7 @@ This guide/tutorial/cheatsheet is created in markdown.
 ## collapsible Section !test!
 <details><summary>
   
-## Collapsible field</summary>
+### Collapsible field</summary>
 HTML syntax
 ```
 <details><summary>Collapsible field</summary>
@@ -41,7 +41,7 @@ Text inside goes here
 ---
 <details><summary>
   
-## Text box</summary>
+### Text box</summary>
 Using tables to create boxed text
 Markdown syntax
 ```
@@ -67,7 +67,7 @@ Markdown syntax
 ---
 <details><summary>
   
-## Quotes</summary>
+### Quotes</summary>
 Markdown syntax
 ```
 > quote
@@ -81,7 +81,7 @@ Markdown syntax
 ---
 <details><summary>
   
-## Typography</summary>
+### Typography</summary>
 Markdown syntax  
 ```**This text is _extremely_ important**```  
 ###### Example  
@@ -102,7 +102,7 @@ Markdown syntax
 ---
 <details><summary>
   
-## Abbreviation</summary>
+### Abbreviation</summary>
 Markdown syntax  
 ```
 [Abbr](\# "Abbreviation")  
@@ -117,7 +117,7 @@ Markdown syntax
 ---
 <details><summary>
   
-## Code blocks with syntax identifyer</summary>
+### Code blocks with syntax identifyer</summary>
 ```csharp
 public void Method(string argh[])
 {

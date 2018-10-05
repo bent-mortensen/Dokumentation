@@ -38,7 +38,7 @@ Example
 <a name="shortimagelink2"></a>
 ## Short image link 2
 
-This will create an Reference, than can be placed without have the image link attached every time.
+This will create an Reference, than can be placed without having the image link attached every time.
 
 Place the reference in the bottom of the markdown document to use it every where.
 
@@ -48,12 +48,13 @@ Markdown syntax
 
 [logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
 ```
-Example  
-
+<details><summary>Example</summary>
+  
 ![alt text][logo]
 
-[logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
+</details>
 
+[logo]: https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png "MouseOver Hover Title Text"
 
 [To the Top](#top)
 ------------------

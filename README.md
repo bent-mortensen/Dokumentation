@@ -1,8 +1,8 @@
 <a name="top"></a>
 # Markdown Syntax for github documentation
-A Collection of Markdown syntax and examples for writing documentation here on github.
+A Collection of Markdown syntax and HTML syntax with examples for writing documentation here on github.
 
-This guide/tutorial/cheatsheet is created in markdown.
+This guide/tutorial/cheatsheet is created in Markdown and HTML.
 
 ## Table of content
 

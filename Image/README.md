@@ -29,9 +29,11 @@ Markdown syntax
 ```
 ![Alt Text](/Image/User-Story-Card.png)
 ```
-Example  
-
+<details><summary>Example</summary>
+  
 ![Alt Text](/Image/User-Story-Card.png)  
+
+</details>
 [To the Top](#top)
 ---
 
@@ -66,9 +68,10 @@ Markdown syntax
 ```
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 ```
-Example  
-
+<details><summary>Example</summary>
+  
 <img src="https://github.com/bent-mortensen/Dokumentation/blob/master/Image/User-Story-Card.png" width="300" height="100"></img>
 
+</details>
 [To the Top](#top)
 ------------------

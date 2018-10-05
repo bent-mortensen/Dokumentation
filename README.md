@@ -16,7 +16,29 @@ This guide/tutorial/cheatsheet is created in markdown.
 * [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
 * user...
 
-## collapsible markdown?
+## collapsible Section !test!
+<details><summary>
+  
+## Collapsible field</summary>
+HTML syntax
+```
+<details><summary>Collapsible field</summary>
+
+Text inside goes here
+
+</details>
+
+```
+###### Example
+<details><summary>Collapsible field</summary>
+
+Text inside goes here
+
+</details>
+</details>
+
+
+
 <details><summary>
   
 ## Text box</summary>

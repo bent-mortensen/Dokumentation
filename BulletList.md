@@ -45,5 +45,5 @@ This code segment will create a indented list.
       * indent two
       * indent tree 
   * indent four
-          * indent five
-            * indent six
+      * indent five
+        * indent six

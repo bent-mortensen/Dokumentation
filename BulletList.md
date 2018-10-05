@@ -6,7 +6,7 @@ Bulletlists can be created with asterisk, plus and minus
 * \+
 * \-
 
-Markdown syntax
+Markdown syntax  
 This code segment will create two lists, with a noticeably space between them.
 ``` 
 * list one
@@ -24,14 +24,17 @@ This code segment will create two lists, with a noticeably space between them.
 + list two
 + list two
 
-Markdown syntax
+Markdown syntax  
 This code segment will create a indented list.
 ``` 
-* list one
-  * list one
-  * list one
+* list
+  * indent one
+    * indent two
+      * indent tree does not work
 ```
 ###### Example
-* list one
-  * list one
-  * list one
+* list
+  * indent one
+    * indent two
+      * indent tree does not work
+    

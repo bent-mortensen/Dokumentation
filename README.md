@@ -56,12 +56,12 @@ _This text is **extremely** important_
 Markdown is always left-aligned 
 
 ## tables
-|long text here that goes on and on and on and on and|
-|:-|
+| Boxed text |
+|:-:|
 
 ||
-|:-|
-| long text here that goes on and on and on and on and |
+|:-:|
+| Boxed text |
 ||
 
 

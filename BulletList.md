@@ -37,7 +37,13 @@ This code segment will create a indented list.
   * indent one
     * indent two
       * indent tree 
-        * indent four does not work
-          * indent
+        * indent four
+          * indent five
             * indent six
     
+      * indent one
+      * indent two
+      * indent tree 
+  * indent four
+          * indent five
+            * indent six

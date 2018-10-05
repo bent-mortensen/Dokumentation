@@ -55,11 +55,14 @@ _This text is **extremely** important_
 ## Text alignment
 Markdown is always left-aligned 
 
-## table
-| text long text here that goes on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on |
-|:-----|
+## tables
+|long text here that goes on and on and on and on and|
+|:-|
 
-<p style='text-align: justify;'> text long text here that goes on and onsdfgsdfgggf and on and onsdfgsdfg and on and on and on and on and on and on and onsdfg and on and on and osdfgn and on and onsdfggg ansdfgd onsdfg and on asdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgnd sdfgon and on and on and on and on sdfgsdfgand sdfgon and osdfgn ansdfgsdfgsdfgd onsdfg and on and sdfgon and on and on and on and on and on and on and onsdfg and on and on and on and on and on and on and on and sdfsdfggsdfgosdfgn asdsfgdfgnd on and on and on and on and on and on and on and on and on and on and on ansdfgdsdfg on and on and on and on and on and on anddfsg osdfgn and on and on and on and on and on and on and on and on and on and on and on and on andsdfg on and on and on and on </p>
+||
+|:-|
+| long text here that goes on and on and on and on and |
+||
 
 
 

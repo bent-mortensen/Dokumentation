@@ -1,46 +1,37 @@
 # Bullet lists
 
-``` 
-* item
-+ item
-- item
-  * item
-  + item
-  - item
-    * item
-      * item
-    * item
-  * item
-* item
-* item
-```
+Bulletlists can be created with asterisk, plus and minus
 
-* item
-* item
-* item
-  + item
-  + item
-  + item
-- item
-- item
-- item
-  * item
-  + item
-  - item
-    * item
-      * item
-    * item
-  * item
-* item
-* item
-* item
-* item
-* item
-  * item
-  * item
-    * item
-      * item
-    * item
-  * item
-* item
-* item
+* \*
+* \+
+* \-
+
+Markdown syntax
+This code segment will create two lists, with a noticeably space between them.
+``` 
+* list one
+* list one
+* list one
++ list two
++ list two
++ list two
+```
+###### Example
+* list one
+* list one
+* list one
++ list two
++ list two
++ list two
+
+Markdown syntax
+This code segment will create a indented list.
+``` 
+* list one
+  * list one
+  * list one
+```
+###### Example
+* list one
+  * list one
+  * list one

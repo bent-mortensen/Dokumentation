@@ -1,11 +1,48 @@
 ---
-title: Digital Sign sample
-ms.author: robsol
-description: Create a basic digital sign similar to screen saver with slideshow images and audio.
+title: table sample
+md.author: BM
+description: How to create a simpel table
 ---
 
 
+<table>
+  <tr>
+    <th>Tables</th>
+    <th text-align:right;>Are</th>
+    <th>Cool</th>
+  </tr>
+  <tr>
+    <td>col 1 is</td>
+    <td>left-aligned</td>
+    <td>$1600</td>
+  </tr>
+  <tr>
+    <td>col 2 is</td>
+    <td>centered</td>
+    <td>$12</td>
+  </tr>
+  <tr>
+    <td>col 3 is</td>
+    <td>right-aligned</td>
+    <td text-align:right;>$1</td>
+  </tr>
+</table>
 
+
+
+
+
+```
++----------+---------------+-------+  
+| Tables   |      Are      |  Cool |  
++----------+---------------+-------+  
+| col 1 is |  left-aligned | $1600 |  
++----------+---------------+-------+  
+| col 2 is |    centered   |   $12 |  
++----------+---------------+-------+  
+| col 3 is | right-aligned |    $1 |  
++----------+---------------+-------+  
+```
 
 # Tables
 
@@ -27,7 +64,7 @@ Example
 
 
 ## Simple
-
+Works only if on the very top of the md file
 
 Markdown syntax
 ```
@@ -38,11 +75,4 @@ description: How to create a simpel table
 ---
 ```
 Example
-
----
-title: table sample
-ms.author: BM
-description: How to create a simpel table
-
----
-
+see top

@@ -29,6 +29,7 @@ description: How to create a simpel table
 ---
 ```
 Example
+
 ---
 title: table sample
 ms.author: BM

@@ -2,7 +2,6 @@
 title: Digital Sign sample
 ms.author: robsol
 description: Create a basic digital sign similar to screen saver with slideshow images and audio.
-
 ---
 
 
@@ -44,13 +43,6 @@ Example
 title: table sample
 ms.author: BM
 description: How to create a simpel table
-
----
-
----
-title: Digital Sign sample
-ms.author: robsol
-description: Create a basic digital sign similar to screen saver with slideshow images and audio.
 
 ---
 

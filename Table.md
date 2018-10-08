@@ -1,7 +1,8 @@
 ---
 title: table sample
-md.author: BM
+md.Author: BM
 description: How to create a simpel table
+
 ---
 
 

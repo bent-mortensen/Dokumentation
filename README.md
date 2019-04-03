@@ -12,10 +12,6 @@ This guide/tutorial/cheatsheet is created in Markdown and HTML.
 * [Bullet Lists](/BulletList.md#top)
 * [Number Lists](/NumberList.md#top)
 
-## for work
-* [user story 1](https://github.com/bent-mortensen/Dokumentation/blob/master/UserStories/user-story-1.md)
-* user...
--------------------------------
 ## collapsible Section !test!
 <details><summary>
   

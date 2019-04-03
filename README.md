@@ -12,32 +12,21 @@ This guide/tutorial/cheatsheet is created in Markdown and HTML.
 * [Bullet Lists](/BulletList.md#top)
 * [Number Lists](/NumberList.md#top)
 
-## collapsible Section !test!
-<details><summary>
-  
-### Collapsible field</summary>
+## collapsible Section
+<details><summary>Collapsible field</summary>
 HTML syntax
 ```
 <details><summary>Collapsible field</summary>
-
 Text inside goes here
-
 </details>
-
 ```
 ###### Example
 <details><summary>Collapsible field</summary>
-
 Text inside goes here
-
 </details>
 </details>
 
-
----
-<details><summary>
-  
-### Text box</summary>
+<details><summary>Text box</summary>
 Using tables to create boxed text
 Markdown syntax
 ```
@@ -60,10 +49,8 @@ Markdown syntax
 
 </details>
 
----
-<details><summary>
-  
-### Quotes</summary>
+
+<details><summary>Quotes</summary>
 Markdown syntax
 ```
 > quote
@@ -74,10 +61,8 @@ Markdown syntax
 >> more quote
 </details>
 
----
-<details><summary>
-  
-### Typography</summary>
+
+<details><summary>Typography</summary>
 Markdown syntax  
 ```**This text is _extremely_ important**```  
 ###### Example  
@@ -95,10 +80,7 @@ Markdown syntax
 
 </details>
 
----
-<details><summary>
-  
-### Abbreviation</summary>
+<details><summary>Abbreviation</summary>
 Markdown syntax  
 ```
 [Abbr](\# "Abbreviation")  
@@ -110,10 +92,7 @@ Markdown syntax
 
 </details>
 
----
-<details><summary>
-  
-### Code blocks with syntax identifyer</summary>
+<details><summary>Code blocks with syntax identifyer</summary>
 ```csharp
 public void Method(string argh[])
 {

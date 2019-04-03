@@ -14,7 +14,9 @@ This guide/tutorial/cheatsheet is created in Markdown and HTML.
 
 ## collapsible Section
 <details><summary>Collapsible field</summary>
+  
 HTML syntax
+
 ```
 <details><summary>Collapsible field</summary>
 Text inside goes here
@@ -23,13 +25,18 @@ Text inside goes here
 ```
 
 ###### Example
+
 <details><summary>Collapsible field</summary>
+  
 Text inside goes here
+
 </details>
 </details>
 
 <details><summary>Text box</summary>
+  
 Using tables to create boxed text
+
 Markdown syntax  
 
 ```
@@ -54,6 +61,7 @@ Markdown syntax
 
 
 <details><summary>Quotes</summary>
+  
 Markdown syntax
 ```
 > quote
@@ -66,7 +74,9 @@ Markdown syntax
 
 
 <details><summary>Typography</summary>
+  
 Markdown syntax  
+
 ```**This text is _extremely_ important**```  
 ###### Example  
 **This text is _extremely_ important**  

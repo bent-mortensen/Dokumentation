@@ -19,7 +19,9 @@ HTML syntax
 <details><summary>Collapsible field</summary>
 Text inside goes here
 </details>
+  
 ```
+
 ###### Example
 <details><summary>Collapsible field</summary>
 Text inside goes here
@@ -28,7 +30,8 @@ Text inside goes here
 
 <details><summary>Text box</summary>
 Using tables to create boxed text
-Markdown syntax
+Markdown syntax  
+
 ```
 | Boxed text |
 |:-:|
